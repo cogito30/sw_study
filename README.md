@@ -23,8 +23,8 @@
 - [Database]()
 - [Network]()
 - [Operating System]()
-- [Security]
-- [Graphics]
+- [Security]()
+- [Graphics]()
 
 ## 참고자료
 - [한빛미디어]()
