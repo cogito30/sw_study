@@ -5,7 +5,7 @@
 - 자료구조 개념 및 특징, 알고리즘을 통한 문제해결력 -> Algorithm
 - 데이터 구조화 및 탐색 속도 최적화 -> Database
 - 데이터통신 규약 및 전송 원리 -> Network
-- 컴퓨터구조 및 하드웨어 구조 -> Operating System
+- 컴퓨터구조 및 하드웨어 구조 -> Operating System && Linux Kernel && System Programming
 - 안정적인 정보보안 -> Security
 - 2D 및 3D 구조 및 동작 원리 -> Graphics
 
@@ -16,6 +16,15 @@
 4) [정보처리기사]()
 5) [정보보안기사]()
 6) [정보통신기사]()
+
+## Subject
+- [Programming Langauge](./01_language)
+- [Algorithm]()
+- [Database]()
+- [Network]()
+- [Operating System]()
+- [Security]
+- [Graphics]
 
 ## 참고자료
 - [한빛미디어]()
