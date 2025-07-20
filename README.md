@@ -22,8 +22,8 @@
 ## Subject
 - [Programming Langauge](./01_language)
 - [Algorithm](./02_algorithm)
-- [Database]()
-- [Network]()
+- [Database](./03_database)
+- [Network](./04_network)
 - [Operating System]()
 - [Security]()
 - [Graphics]()
