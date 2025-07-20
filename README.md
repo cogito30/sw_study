@@ -33,6 +33,7 @@
 - [이기적 영진닷컴]()
 - [DreamHack]()
 - [HongLab]()
+- [김길성의 네트워크 딥다이브](https://product.kyobobook.co.kr/detail/S000216406148)
 
 ## 점수기록
 #### SQLD
