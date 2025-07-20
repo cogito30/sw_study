@@ -7,6 +7,7 @@
 - OSI 7 Layer
 - TCP/IP 4 Layer
 - Protocol
+- 자격증: 네트워크관리사(2급) 취득
 
 ## 학습법
 
