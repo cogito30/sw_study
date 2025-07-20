@@ -21,5 +21,5 @@
 
 #### 네트워크 실습
 - 교재
-  - [윤성우의 열햘 TCP/IP 소켓 프로그래밍](https://product.kyobobook.co.kr/detail/S000001589146)
+  - [윤성우의 열혈 TCP/IP 소켓 프로그래밍](https://product.kyobobook.co.kr/detail/S000001589146)
 - 강의
