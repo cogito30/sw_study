@@ -38,7 +38,6 @@
 ```
 
 ## 추천 교재 및 강의
-- 
 #### 자료구조 && 알고리즘
 - 교재
   - (공식) **[Introduction To Algorithms](https://product.kyobobook.co.kr/detail/S000213683944)**
