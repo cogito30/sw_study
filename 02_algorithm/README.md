@@ -65,3 +65,10 @@
   - [sw expert academy](https://swexpertacademy.com/main/code/problem/problemList.do)
   - [LeetCode](https://leetcode.com/problemset/)
   - [HackerRank](https://www.hackerrank.com/dashboard)
+
+## 학습루틴
+1) 언어 및 플랫폼 선택
+2) 개발환경 설정
+3) 기본문법 및 라이브러리 암기
+4) 문제풀이: 자료구조/알고리즘 분석
+5) 풀이과정 기록
