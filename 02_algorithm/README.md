@@ -52,8 +52,16 @@
 - 교재
   - **[문제풀이로 완성하는 알고리즘 + 자료구조(C++)](https://product.kyobobook.co.kr/detail/S000214420933)**
   - [프로그래머스 코딩 테스트 문제 풀이 전략(자바편)](https://product.kyobobook.co.kr/detail/S000200928002)
+  - [다빈치코딩 알고리즘(python)](https://wikidocs.net/book/10280)
   - [코딩 테스트 합격자 되기(자바스크립트편)](https://product.kyobobook.co.kr/detail/S000213641007)
   - (심화 선택)[알고리즘 문제 해결 전략 세트(C++)](https://product.kyobobook.co.kr/detail/S000001032946)
 - 강의
   - **[바킹독의 실전 알고리즘](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=2)**
   - [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://www.youtube.com/playlist?list=PLRx0vPvlEmdAghTr5mXQxGpHjWqSz0dgC)
+  - [코딩테스트 필수 알고리즘(python)](https://www.youtube.com/playlist?list=PLi-xJrVzQaxXC2Aausv_6mlOZZ2g2J6YB)
+- 플랫폼
+  - [prograrmmers](https://school.programmers.co.kr/learn/challenges?order=recent&page=1)
+  - [solved.ac(baekjoon online judge](https://solved.ac/en/class)
+  - [sw expert academy](https://swexpertacademy.com/main/code/problem/problemList.do)
+  - [LeetCode](https://leetcode.com/problemset/)
+  - [HackerRank](https://www.hackerrank.com/dashboard)
